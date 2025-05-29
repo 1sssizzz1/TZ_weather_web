@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Тестовое задание (Прогноз погоды для городов)
 docker compose up --build
 ## Реализованный функционал
@@ -52,3 +53,6 @@ http://localhost:8000
 ```bash
 pytest tests/
 ``` 
+=======
+# TZ_weather_web
+>>>>>>> 51527da8caff0926395724c923955e7366eb0274
