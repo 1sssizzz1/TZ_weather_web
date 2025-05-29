@@ -26,8 +26,8 @@ LocalStorage
 2. Клонировать репоз
 
 ```bash
-git clone <url-репозитория>
-cd <директория-проекта>
+git clone https://github.com/1sssizzz1/TZ_weather_web.git
+cd TZ_weather_web
 ```
 
 3. Запуск
